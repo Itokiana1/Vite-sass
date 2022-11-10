@@ -1,0 +1,13 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background: greenyellow;
+}
+
+.header {
+  background: red;
+  display: flex;
+  justify-content: space-between;
+}
+.header__button {
+  display: flex;
+}/*# sourceMappingURL=main.css.map */
